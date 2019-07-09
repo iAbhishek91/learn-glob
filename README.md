@@ -1,0 +1,2 @@
+# learn-glob
+glob pattern
